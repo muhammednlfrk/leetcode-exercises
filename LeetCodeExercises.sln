@@ -7,8 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sol2016", "src\Sol2016\Sol2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA0988DD-78C2-4E0F-AEB2-16D6B4673423}"
 	ProjectSection(SolutionItems) = preProject
+		Sol1148.sql = Sol1148.sql
+		Sol1683.sql = Sol1683.sql
 		Sol1757.sql = Sol1757.sql
 		Sol584.sql = Sol584.sql
+		Sol595.sql = Sol595.sql
 	EndProjectSection
 EndProject
 Global
